@@ -13,4 +13,4 @@ function classification(age){
 console.log(classification(10));
 console.log (classification(16));
 console.log(classification(31));
-console.log(classification(50));
+console.log(classification(60));
